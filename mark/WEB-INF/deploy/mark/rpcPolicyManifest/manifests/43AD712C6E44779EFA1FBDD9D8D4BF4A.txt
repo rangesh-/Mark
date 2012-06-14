@@ -1,0 +1,2 @@
+serviceClass: com.googlecode.gwtphonegap.client.file.browser.service.FileRemoteService
+path: 08ED290A8A1BA34B7BB9E2F7392DD0D4.gwt.rpc
